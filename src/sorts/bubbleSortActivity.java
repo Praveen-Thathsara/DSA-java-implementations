@@ -22,4 +22,4 @@ public class bubbleSortActivity {
 }
 // meke i eka adu krnne ekak adu wena nisa mulu array eken passe deweni step ekedi array length ek unsorted part ekt hariyn widiyt hada ganna
 
-// 1 adu krnne j+1 krgen yana nisa anthima element ekedi j+1k nethi nisaa
+// 1 adu krnne j+1 krgen yana nisa anthima element ekedi j+1k nethi nisaaa
